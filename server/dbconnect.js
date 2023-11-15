@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 async function dbConnect() {
   try {
     await mongoose.connect(
-      "mongodb+srv://mdfaizaann:FaizanCodeForIndiaA23@faizan.r6pzw5j.mongodb.net/social-sync",
+      "mongodb+srv://mdfaizaann:FaizanCodeForIndiaA23@faizan.r6pzw5j.mongodb.net/CuppingAapp",
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
