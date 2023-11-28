@@ -1,0 +1,10 @@
+{
+    "PORT":6001,
+    "RAZORPAY":{
+        "API_KEY":"rzp_test_Z6ToBUlhbTaE7K",
+        "API_SECRET":"lVV6yeOCv3MoiZsMtZC0A2sb"
+    },
+
+    "MONGO_STRING": "mongodb+srv://qazi-hassan:Hassan1709@hassan.ywizycy.mongodb.net/CuppingApp"
+
+}   
